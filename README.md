@@ -7,9 +7,7 @@
   <a href="mailto:francescomerlo13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<img src="https://img.shields.io/badge/FOCUS-NEUROENGINEERING%20%7C%20ROBOTICS-black?style=for-the-badge&labelColor=1a1a1a" />
-
-<br><br>
+<img src="https://img.shields.io/badge/FOCUS-NEUROENGINEERING%20%7C%20ROBOTICS%20%7C%20ELECTRONICS%20%7C%20WEARABLE%20DEVICES-black?style=for-the-badge&labelColor=1a1a1a" />
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
@@ -62,7 +60,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60" width="100%" />
 
 </div>
 
