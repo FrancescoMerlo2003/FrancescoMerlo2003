@@ -1,11 +1,16 @@
+# 🌌 Francesco Merlo | Research & Neuroengineering Dashboard
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=FRANCESCO%20MERLO&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&section=header&text=FRANCESCO%20MERLO&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/FrancescoMerlo2003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:francescomerlo13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Focus-Neuroengineering%20%7C%20Robotics-black?style=for-the-badge&labelColor=1a1a1a" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Neuroengineering%20%7C%20Robotics%20%7C%20Sensors-black?style=flat&labelColor=1a1a1a&color=2d2d2d" />
 </p>
 
 ---
@@ -50,4 +55,5 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer" width="100%" />
+</p>rc="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer" width="100%" />
 </p>
