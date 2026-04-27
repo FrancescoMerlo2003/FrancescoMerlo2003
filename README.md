@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Hc4cM0HSpYGqHRYMB-AyY_ZfRq38hlDU/view?usp=sharing" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=250&text=BACHELOR%20THESIS&fontSize=30&fontAlign=50&fontAlignY=50" width="49%" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=660000&height=250&text=BACHELOR%20THESIS&fontSize=30&fontAlign=50&fontAlignY=50" width="49%" />
   </a>
   <a href="https://drive.google.com/file/d/1v9c6hNfkB2Ti_jrrFHpnm_MA6Kt0BWpI/view?usp=sharing" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=00008B&height=250&text=SPORTSBAND&fontSize=30&fontAlign=50&fontAlignY=50" width="49%" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000066&height=250&text=SPORTSBAND&fontSize=30&fontAlign=50&fontAlignY=50" width="49%" />
   </a>
 </p>
 
@@ -50,6 +50,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/FrancescoMerlo2003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:francescomerlo13@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
-</p>ttps://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer" width="100%" />
-</p>"https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer" width="100%" />
 </p>
