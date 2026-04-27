@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Hc4cM0HSpYGqHRYMB-AyY_ZfRq38hlDU/view?usp=sharing" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=660000&height=250&text=BACHELOR%20THESIS&fontSize=30&fontAlign=50&fontAlignY=50" width="49%" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=FF3131&height=250&text=BACHELOR%20THESIS&fontSize=30&fontAlign=50&fontAlignY=50" width="49%" />
   </a>
   <a href="https://drive.google.com/file/d/1v9c6hNfkB2Ti_jrrFHpnm_MA6Kt0BWpI/view?usp=sharing" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000066&height=250&text=SPORTSBAND&fontSize=30&fontAlign=50&fontAlignY=50" width="49%" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=1F51FF&height=250&text=SPORTSBAND&fontSize=30&fontAlign=50&fontAlignY=50" width="49%" />
   </a>
 </p>
 
