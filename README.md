@@ -3,6 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=140&section=header&text=FRANCESCO%20MERLO&fontSize=50&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Double%20MSc-Politecnico%20di%20Milano%20%2F%20University%20of%20Illinois%20at%20Chicago-white?style=flat-square&labelColor=000000" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/FrancescoMerlo2003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:francescomerlo13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
