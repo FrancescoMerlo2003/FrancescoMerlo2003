@@ -1,70 +1,50 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Francesco Merlo | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/your-code.js" crossorigin="anonymous"></script>
+</head>
+<body>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=140&section=header&text=FRANCESCO%20MERLO&fontSize=50&fontColor=ffffff&fontAlignY=50" width="100%" />
+    <nav class="navbar">
+        <div class="logo">FRANCESCO MERLO</div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#projects">Progetti</a></li>
+            <li><a href="#contact">Contatti</a></li>
+        </ul>
+    </nav>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Double%20MSc-Politecnico%20di%20Milano%20%2F%20University%20of%20Illinois%20at%20Chicago-white?style=flat-square&labelColor=000000" />
-</p>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Neuroengineering & Robotics</h1>
+            <p>Double MSc Politecnico di Milano / UIC</p>
+            <div class="social-badges">
+                <a href="https://linkedin.com/in/FrancescoMerlo2003" class="badge">LinkedIn</a>
+                <a href="mailto:francescomerlo13@gmail.com" class="badge">Email</a>
+            </div>
+        </div>
+    </header>
 
-<p align="center">
-  <a href="https://linkedin.com/in/FrancescoMerlo2003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:francescomerlo13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+    <section id="projects" class="project-grid">
+        <a href="URL_GOOGLE_DRIVE" class="card" style="--color: #8B0000;">
+            <div class="card-content">
+                <h3>BACHELOR THESIS</h3>
+                <p>Bridge Exoskeleton</p>
+            </div>
+        </a>
+        
+        <a href="URL_GOOGLE_DRIVE" class="card" style="--color: #00008B;">
+            <div class="card-content">
+                <h3>SPORTSBAND</h3>
+                <p>Wearable Device</p>
+            </div>
+        </a>
 
-<img src="https://img.shields.io/badge/FOCUS-NEUROENGINEERING%20%7C%20ROBOTICS%20%7C%20ELECTRONICS%20%7C%20WEARABLE%20DEVICES-black?style=for-the-badge&labelColor=1a1a1a" />
+        </section>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://drive.google.com/file/d/1Hc4cM0HSpYGqHRYMB-AyY_ZfRq38hlDU/view?usp=sharing" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=220&text=BACHELOR%20THESIS&fontSize=35&fontColor=ffffff&fontAlignY=45&desc=BRIDGE%20EXOSKELETON&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://drive.google.com/file/d/1v9c6hNfkB2Ti_jrrFHpnm_MA6Kt0BWpI/view?usp=sharing" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00008B&height=220&text=SPORTSBAND&fontSize=35&fontColor=ffffff&fontAlignY=45&desc=WEARABLE%20DEVICE&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://drive.google.com/file/d/1R9G2rK1iUrf0GHCtYRYdmVTGuU4I2tVU/view?usp=share_link" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=220&text=PPG%20REVIEW&fontSize=35&fontColor=ffffff&fontAlignY=45&desc=NEUROENGINEERING&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
-      </a>
-    </td>
-    <td>
-      <a href="https://drive.google.com/file/d/1z66MaBL1IMSF6cYS6YHm5BlZDYD9Acwl/view?usp=sharing" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=220&text=FITNESSBAND&fontSize=35&fontColor=ffffff&fontAlignY=45&desc=WEARABLE%20DEVICE&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://drive.google.com/file/d/1osO2zmL_X9-FRM_izFWdpnax54S1pVDn/view?usp=share_link" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4500&height=220&text=SYMBOL%20ENCODING&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=TACTILE%20FEEDBACK&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
-      </a>
-    </td>
-    <td>
-      <a href="https://drive.google.com/file/d/1DRtyJQKAuJRr9j-tTCSp2txK9hPVQcUv/view?usp=sharing" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=4682B4&height=220&text=CAPACITIVE%20SENSOR&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=WEARABLE%20DEVICE&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://drive.google.com/file/d/1MtfTaDwj3hNZVEnJOs2I9cXRyM5NSHZw/view?usp=sharing" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F50&height=220&text=TACTILE%20MODEL&fontSize=35&fontColor=ffffff&fontAlignY=45&desc=COMPUTATIONAL%20ANALYSIS&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
-      </a>
-    </td>
-    <td>
-      <a href="https://drive.google.com/file/d/1H_Q8TFo2qXnbyIMEnV8zMbx2sxwpi-Yp/view?usp=sharing" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=220&text=GAIT%20ANALYSIS&fontSize=35&fontColor=ffffff&fontAlignY=45&desc=WEARABLE%20DEVICE&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60" width="100%" />
-
-</div>
-
+</body>
+</html>
