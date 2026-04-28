@@ -77,3 +77,55 @@ body {
 .card:hover { transform: translateY(-5px); border-color: var(--color); }
 .card h3 { margin: 0; font-size: 1.1rem; }
 .card p { color: #8b949e; margin-top: 10px; font-size: 0.9rem; }
+/* STILI EDUCATION & EXPERIENCE */
+.edu-work-section { padding: 80px 0; }
+.dark-bg { background-color: #161b22; }
+
+.objective-text {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #c9d1d9;
+}
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.timeline-item {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    background: rgba(255, 255, 255, 0.03);
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid #30363d;
+    transition: 0.3s;
+}
+
+.timeline-item:hover {
+    border-color: var(--red-accent);
+    transform: scale(1.01);
+}
+
+.inst-logo img {
+    width: 80px;
+    height: auto;
+    object-fit: contain;
+}
+
+.timeline-content h3 { margin: 0; color: var(--red-accent); }
+.timeline-content h4 { margin: 5px 0 15px 0; color: #8b949e; }
+.timeline-content ul { padding-left: 20px; color: #c9d1d9; }
+.timeline-content li { margin-bottom: 10px; }
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+    .timeline-item { flex-direction: column; text-align: center; }
+    .inst-logo { margin: 0 auto; }
+}
